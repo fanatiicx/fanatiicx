@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @fanatiicx / Jess
 
 - 👀 I’m interested in gaining experience with technical documentation and being more involved with open-source projects.
-- 🌱 I’m currently learning XML, computational thinking, and sketching landscapes (hobby).
+- 🌱 I’m currently learning DITA XML, computational thinking, and how to sketch landscapes (hobby).
 
 ## Stack
 

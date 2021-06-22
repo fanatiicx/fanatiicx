@@ -3,7 +3,7 @@
 - 👀 I’m interested in gaining **technical documentation** experience and being more involved with open-source projects.
 - 🌱 I’m currently learning DITA XML, computational thinking, and sketching landscapes (hobby).
 - 💻 Would like to learn more R, SQL, Python.
-- 🎬 Favorite movies include *There Will Be Blood* and many others. 
+- 🎬 Favorite movies include *There Will Be Blood*, *Lagaan* and many others. 
 - 📚 Favorite fiction authors include Poe and J.G. Ballard 🧡
 
 ## Contact

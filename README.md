@@ -5,7 +5,7 @@
 - 💻 Would like to learn more R, SQL, Python.
 - 🎬 Favorite movies include *There Will Be Blood* and many others. 
 - 📚 Favorite fiction authors include Poe and J.G. Ballard 🧡
-- ✉️ Contact me [via email here](https://jesschua.com/contact/)
+- ✉️ Contact me on [LinkedIn](https://www.linkedin.com/in/jesschua/) or [via email](https://jesschua.com/contact/)
 
 ## Stack
 

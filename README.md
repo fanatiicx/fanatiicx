@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @fanatiicx / Jess
 
 - 👀 I’m interested in gaining **technical writing** experience and being more involved with open-source projects.
-- 🌱 I’m currently learning JavaScript and sketching landscapes (hobby).
-- 💻 Would like to learn more R, SQL, Python.
+- 🌱 I’m currently sketching landscapes (hobby).
+- 💻 Would like to learn more Hugo and Jekyll.
 - 🎬 Favorite movies include *There Will Be Blood* and many others. 
 - 📚 Favorite fiction authors include Poe and J.G. Ballard 🧡
 

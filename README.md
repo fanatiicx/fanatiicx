@@ -3,7 +3,7 @@
 - 👀 I’m interested in gaining **technical writing** experience and being more involved with open-source projects.
 - 🌱 I’m currently sketching landscapes (hobby).
 - 💻 Learning more about Jekyll and Hugo.
-- 🎬 Favorite movies include *There Will Be Blood* and many others. 
+- 🎬 Favorite movies include *2001: Space Odyssey*, *Blade Runner* and many others. 
 - 📚 Favorite fiction authors include Poe and J.G. Ballard 🧡
 
 ## Contact
